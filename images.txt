@@ -1,1 +1,2 @@
 xzxxn777/ddddocr:latest
+anmour/bncr:latest
